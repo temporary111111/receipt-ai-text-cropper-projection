@@ -1,0 +1,13 @@
+# Large source data and downloaded dataset caches
+data/raw/
+**/.cache/
+
+# Generated Python files
+__pycache__/
+*.py[cod]
+
+# Temporary local inspection artifacts
+tmp_*.png
+
+# Superseded manual crop variants retained locally for reference
+outputs/manual_sample/archive/
